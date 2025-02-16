@@ -18,7 +18,7 @@ public class BinarySearch{
             else if (array[m]==key) {
                 return m;
             }
-
+//hello this is something that i changed 
         }
         return -1;
     }
